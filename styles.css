@@ -32,12 +32,16 @@ body {
     width: 100px;
     height: 100px;
 }
+.skills > div{
+    display:inline-block;
+    padding: 40px
+}
 
 .header {
     color: gray;
 }
 
-a {
+i {
     font-size: 100px;
 }
 
